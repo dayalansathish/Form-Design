@@ -1,0 +1,11 @@
+.forgot{
+    background-image: url(./../../public/Images/forgot-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 125px;
+    padding-bottom: 125px;
+}
+
+.text{
+    margin-left: 165px;
+}
